@@ -58,4 +58,10 @@ public class HomeController {
         }
     }
 
+    @GetMapping("/home")
+    public String home() {
+        // /WEB-INF/views/home.jsp 를 반환
+        return "home";
+    }
+
 }

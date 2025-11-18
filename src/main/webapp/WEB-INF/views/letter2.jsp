@@ -88,24 +88,50 @@
 <button id="music-btn">🎵 음악 ON/OFF</button>
 
 <div class="letter-content">
-    <p class="fade-in" style="transition-delay: 0s;">지영아,</p>
-    <p class="fade-in" style="transition-delay: 3s;">오늘 하루도 너에게 특별하고 행복한 순간들로 가득하길 바라며 이 편지를 써.  
-    우리가 함께했던 순간들이 하나하나 소중하게 마음 속에 남아있어. 💖</p>
+    <p class="fade-in" style="transition-delay: 0s;">지영아, 우선 보잘것없지만 봐줘서 고마워</p>
+    <p class="fade-in" style="transition-delay: 3s;">우선 내가 이 생일을 축하해줄 자격이 없을거같다 라는 생각도했어. 분명 내게 이런 축하도, 더 이상 연락하지 않고 싶다는 생각을할 수 도 있다는 생각을했어. </p>
 
-    <p class="fade-in" style="transition-delay: 6s;">첫 만남부터 지금까지, 웃었던 일, 울었던 일, 그리고 서로에게 의지가 되어주었던 모든 순간들.  
-    그 기억들이 모여 지금의 우리를 만들어준 것 같아. 🎶</p>
+    <p class="fade-in" style="transition-delay: 6s;">그럼에도 불구하고 너의 입장에서는 염치없고 뻔뻔할 수도 있겠지만 생일을 진심으로 축하해주고 싶었고, 진실된 사과를 전하고 싶었어.</p>
 
-    <p class="fade-in" style="transition-delay: 9s;">앞으로도 함께할 시간들이 너무 기대되고, 매 순간을 소중히 하고 싶어.  
-    너의 웃음, 너의 눈빛, 그리고 너의 마음 모두 나에게 큰 선물이야. 😊</p>
+	<p class="fade-in" style="transition-delay: 9s;">이 상황에서 이런걸 만들어서 어떻게 해보겠다는건 아니야.. 지영이가 내 생일을 축하해줬을때부터 나도 특별하게 축하해주고 나만 할 수 있는걸 해주싶다라고 생각했어서  그때부터 생각해오고 조금씩 생각하고 만들어봤어.</p>
 
-    <p class="fade-in" style="transition-delay: 12s;">힘들 때도 있고, 지칠 때도 있겠지만 우리가 함께라면 어떤 순간도 즐겁고 행복할 거라고 믿어.  
-    오늘 하루는 네가 주인공이니까, 마음껏 행복하고 즐겁게 보내길 바랄게! 🎂</p>
+    <p class="fade-in" style="transition-delay: 9s;">물론 별것도아닌 이런걸 만드는게 지금 내가 망쳐놨던 상황들을 무마시키고 지영이가 받았던 상처들을 돌릴 수 없다는걸 알아 </p>
 
+	<p class="fade-in" style="transition-delay: 12s;">2주정도 우리의 처음부터 지금까지 많이 생각해봤어. 그럴수록 내가 받은건 참 많고, 반대로 내가 너에게 준건 결국 상처밖에 없다는걸 알았어.</p>
+  
+    <p class="fade-in" style="transition-delay: 12s;">정말 많이 반성하고 후회가 되더라. 물론 스스로 진심으로 좋아하고 잘해주고 싶다는 생각은 항상 있었지만, 결국 상대방이 받은 감정은 그게 가짜일거라는 생각이 들거같아</p>
+  
+    <p class="fade-in" style="transition-delay: 12s;">지금 지영이를 생각하면 되게 많은 감정이들어. 좋아하지만 미안하고 고맙고 후회되고 아쉽고.. 괜히 소중하고 좋은사람에게 나라는 사람때문에 부정적인 영향을 준것같아. 진심으로 반성하고 있고, 너무 미안했어 지영아</p>
+   
+    <p class="fade-in" style="transition-delay: 12s;">오늘 이런 이야기를 하는것도 물론 너에게 찝찝하고 좋은 감정으로 느껴지지 않을수도 있겟지만, 조금이라도 내가 이제껏 줬던 상처들과 부정적인 감정들에 대한 사과를 하고싶었어.</p>
+   
+    <p class="fade-in" style="transition-delay: 12s;">사실 만들면서도 전해지지 못하겠다 라는 생각을하고있어. 그래도 이 글을 봤다면 너무 고맙고 좋겠다.</p>
+
+	 <p class="fade-in" style="transition-delay: 12s;">만들면서 사실 내 주력쪽은 아니라 좀 애먹긴했어😅 </p>
+	 
+	 <p class="fade-in" style="transition-delay: 12s;">그래도 이걸 봤다면 예쁘지도 않고 별거없지만 봐줘서 너무 고맙고 생일 진심으로 축하해 지영아. 이제는 더이상 괜히 연락해서 싫은 감정 들게 하지않을게. 진심으로 너가 행복했으면 해.</p>
     <div class="signature fade-in" style="transition-delay: 15s;">
         - 장호가 💌
     </div>
 </div>
-
+<!-- 홈으로 버튼 -->
+<div style="margin: 50px 0;">
+    <a href="${pageContext.request.contextPath}/home" 
+       style="
+           padding: 12px 25px;
+           background: #ff66b2;
+           color: white;
+           text-decoration: none;
+           font-size: 1.2em;
+           border-radius: 10px;
+           box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+           transition: 0.3s;
+       "
+       onmouseover="this.style.background='#ff3399'" 
+       onmouseout="this.style.background='#ff66b2'">
+       🏠 홈으로
+    </a>
+</div>
 <script>
     // 스크롤 애니메이션
     const faders = document.querySelectorAll('.fade-in');
